@@ -1,0 +1,30 @@
+.nav-title {
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+.btn-contact {
+    background-color: #d63384;
+    font-size: 16px;
+}
+
+.btn-devis {
+    background-color: #d63384;
+    font-size: 13px;
+    margin-top: 5px;
+}
+
+
+.collapse-mirai {
+    background-color:  rgba(255, 255, 255, 0.8) !important;
+}
+
+.show {
+    display: block;
+    background-color:  rgba(255, 255, 255, 0.8) !important;
+}
+
+.call-us {
+    font-weight: bold !important;
+    color : green !important;
+}
